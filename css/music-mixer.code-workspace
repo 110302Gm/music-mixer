@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../Desktop/music-mixer/image"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "music-mixer"
+	}
+}
